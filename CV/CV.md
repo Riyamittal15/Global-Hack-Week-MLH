@@ -1,0 +1,1 @@
+# Open CV mini project
